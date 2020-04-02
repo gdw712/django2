@@ -1,0 +1,5 @@
+db.sqlite3
+.idea/**/libraries
+.idea/**/*.xml
+.idea/**/*.iml
+*/*/migrations/
